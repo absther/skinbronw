@@ -4,13 +4,19 @@
   </head>
   <style>
     body{
-    background-color:yellow;
+    background-color:#FFFF00;
       }
     </style>
   <body>
     <fieldset>
       <legend>CADASTRAR</legend>
-      <input type="text" placeholder="usuario">
+      <p>usuário:</p></p><input type="text" placeholder="usuario"><br><br>
+      <p>senha::</p></p><input type="password" placeholder="senha"><br><br>
+       <select>
+           <option>volei</option>
+           <option>basquete</option>
+           <option>futebol</option>
+       </select>
     </fieldset>
   </body>
 </html>
