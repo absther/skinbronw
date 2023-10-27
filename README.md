@@ -5,6 +5,7 @@
   <style>
     body{
     background-color:#FFFF00;
+      color:#F0F8FF;
       }
     </style>
   <body>
