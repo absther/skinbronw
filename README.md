@@ -3,8 +3,7 @@
     <title>to be or not to be</title>
   </head>
   <style>
-    body{
-    background-image:url("");
+    body{    background-image:url("https://s2.glbimg.com/uYsIYy-rQgaW-2hI52R0mZ1cQMc=/620x455/e.glbimg.com/og/ed/f/original/2022/10/03/girassol-e-flor-entenda-casa-e-jardim.jpg");
       color:#F0F8FF;
       font-family:arial;
       }
