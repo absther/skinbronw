@@ -4,8 +4,9 @@
   </head>
   <style>
     body{
-    background-color:#FFFF00;
+    background-image:url("");
       color:#F0F8FF;
+      font-family:arial;
       }
     </style>
   <body>
