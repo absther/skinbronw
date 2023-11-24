@@ -55,6 +55,11 @@
    <a href="https://www.facebook.com/">facebook</a>
   <a href="https://twitter.com/login?lang=pt">x/twitter</a>
   <input type="date" min="2018-01-01" max="2018-12-31">
+
+  <video width="320px" heigth="240px" autoplay>
+     <source scr="https://www.youtube.com/watch?v=PhRJrhvCWvU" type="video/mp4">
+    <source scr="https://www.youtube.com/watch?v=PhRJrhvCWvU" type="videos/ogg">
+    </video>
   </body>
 
 </html>
